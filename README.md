@@ -30,4 +30,4 @@ This website showcases my experiences, along with my college career and leadersh
 </div>
 
 ## To Execute
-- <a href="http://www.edombelayneh.com">Click-here</a>
+- <a href="https://parnikamathur.github.io/landing-page/">Click-here</a>
